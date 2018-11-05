@@ -1,0 +1,35 @@
+# OS X
+.DS_Store
+
+# Xcode
+build/
+*.xccheckout
+profile
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+
+# reactnative files
+node_modules
+package-lock.json
+
+# pod files
+ios/Pods
+ios/Podfile.lock
+
+# xcuserdata files
+xcuserdata/
+
+# Bundler
+.bundle
+
+# Android
+android/.gradle/
+android/.idea/
+android/app/build/
+android/build/
+.idea/
+android/local.properties
+android/com.mjyx_mall_rn.iml
+android/app/app.iml
